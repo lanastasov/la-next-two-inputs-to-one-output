@@ -31,3 +31,19 @@ body {
     text-wrap: balance;
   }
 }
+
+input {
+  border: 1px solid black;
+  margin-left: 10px;
+}
+
+label {
+  color:brown;
+  margin-top:3px;
+  margin-left: 10px;
+  border: 1px solid black;
+  vertical-align: bottom;
+  padding: 3px;
+  display: flex;
+  justify-content: center;
+}
